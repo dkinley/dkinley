@@ -1,4 +1,4 @@
-Dirk Kinley is a Silicon Valley based tech entrepreneur, real estate business, sales advisor and mentor. He has broad first-hand experience in online real estate tech, real estate sales and running a Top 1% San Francisco Bay Area real estate team. He spends his time working in the real estate field and building Node JS Apps. He is constantly on the lookout for emerging real estate industry trends. What can be more fun than the crossover between real estate and tech?!
+Dirk Kinley is a Silicon Valley based technology product manager, software engineer, entrepreneur and real estate sales advisor and mentor. He has broad first-hand experience in finacial services and real estate technologies. He spends his software development time discovering new customer needs, scoping requirements and building Node JS Apps. He is constantly on the lookout for emerging trends in UX, big-data and SaaS.
 
 <!--
 **dkinley/dkinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
